@@ -34,4 +34,4 @@
 <hr>
 
 <h2>About the Developer</h2>
-<p>Developed by Xinyuan Liao[cite: 3], a student with a 3.98 GPA[cite: 4] currently transitioning to Industrial & Systems Engineering[cite: 2]. Driven by a passion for applying rigorous data science to large-scale business optimization[cite: 3], Xinyuan leverages hands-on experience as a Data Analytics Intern at Plus Therapeutics, Inc.[cite: 3, 4] and a technical background in Python and object-oriented programming[cite: 4] to build actionable enterprise data solutions.</p>
+<p>Developed by Xinyuan Liao, a student currently transitioning to Industrial & Systems Engineering at Georgia Tech. Driven by a passion for applying data science to large-scale business optimization.
